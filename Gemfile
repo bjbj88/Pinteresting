@@ -27,6 +27,9 @@ gem 'sdoc', '~> 0.4.0'
 
 gem 'devise', '~> 3.5.2'
 
+gem 'paperclip', '~> 3.5.1'	
+
+
 group :development, :test do
 	gem 'sqlite3'
 end
